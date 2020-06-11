@@ -7,7 +7,7 @@ To use Selenium to navigate the website and BeautifulSoup to parse the results t
 save to a dataframe for use in creating a Tableau visualization to display the race data.
 
 The Tableau visualization using this data is at:
- https://public.tableau.com/profile/btriordan#!/vizhome/VideoGameConsoleData/ConsoleTitles
+ https://public.tableau.com/profile/btriordan#!/vizhome/SurfCityMarathon2019/SurfCity2019
 
 
 ## Usage
