@@ -9,6 +9,7 @@ save to a dataframe for use in creating a Tableau visualization to display the r
 The Tableau visualization using this data is at:
  https://public.tableau.com/profile/btriordan#!/vizhome/SurfCityMarathon2019/SurfCity2019
 
+![Image of Visualization](https://github.com/briordan/SurfCity2019Results/blob/master/SurfCity.jpg)
 
 ## Usage
 Running the script will save the results to SurfCity2019.csv.  The marathon website will sometimes 
